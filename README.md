@@ -13,12 +13,15 @@ El propósito de este taller es evaluar tus habilidades para corregir errores en
 
 ## Instrucciones:
 
-### 1. **Clonar el proyecto desde GitHub**:
-   Primero, debes clonar el proyecto a tu máquina local. Ejecuta el siguiente comando en tu terminal para obtener una copia del repositorio:
+### 1. Hacer un fork del proyecto desde GitHub
+Primero, debes hacer un fork del proyecto en GitHub. Ve al repositorio original [RDuuke90/proyecto-java](https://github.com/RDuuke90/proyecto-java) y haz clic en el botón "Fork" en la parte superior derecha para crear una copia en tu cuenta.
+![image](https://github.com/user-attachments/assets/feaf4251-76e9-4548-9cad-3ad1abbb4dcf)
 
-   ```bash
-   git clone https://github.com/RDuuke90/proyecto-java
-   ```
+### 1.2. Clonar el proyecto desde tu fork
+Ahora clona el proyecto a tu máquina local. Ejecuta el siguiente comando en tu terminal, reemplazando `tu_usuario` con tu nombre de usuario de GitHub:
+```bash
+git clone https://github.com/tu_usuario/proyecto-java.git
+```
 
 ### 2. **Revisar el código y encontrar los errores**:
 - Dentro del repositorio clonado, encontrarás una clase llamada CalculadoraSimple.
