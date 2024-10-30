@@ -1,7 +1,7 @@
 public class CalculadoraSimple {
 
     public int sumar(int a, int b) {
-        return a + b // Error sintáctico: falta el punto y coma
+        return a + b 
     }
 
     public int multiplicar(int a, int b) {
